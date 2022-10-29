@@ -1,0 +1,2 @@
+# palantirnet
+Subdomain takeover poc
